@@ -1,4 +1,4 @@
-# 📊 Customer Churn Risk Analysis
+# 📊 Telecom Customer Churn Risk Analysis
 
 ## 🔍 Project Overview
 This project focuses on analyzing customer churn risk for a telecom company using historical customer and service data.  
@@ -69,4 +69,5 @@ The project includes two dashboards:
 
 ## 📌 Conclusion
 This project demonstrates how customer churn data can be transformed into business-ready insights using Power BI, enabling organizations to proactively reduce churn and protect recurring revenue.
+
 
