@@ -43,8 +43,8 @@ The project includes two dashboards:
 - Churn by payment method
 - Revenue impact of churn
 
-![Dashboard Preview](dashboard/Churn-Risk-Dashboard1.png)
-![Dashboard Preview](dashboard/Churn-Risk-Dashboard2.png)
+![Dashboard Preview](dashboard/Churn-Dashboard1.png)
+![Dashboard Preview](dashboard/Churn-Dashboard2.png)
 
 ---
 
@@ -69,3 +69,4 @@ The project includes two dashboards:
 
 ## 📌 Conclusion
 This project demonstrates how customer churn data can be transformed into business-ready insights using Power BI, enabling organizations to proactively reduce churn and protect recurring revenue.
+
