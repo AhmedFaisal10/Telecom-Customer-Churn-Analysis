@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis Portfolio
+# 📊 Telecom Customer Churn Analysis Portfolio
 
 ## 🔍 Overview
 This repository contains **two independent customer churn analysis projects**, each built using a different analytics tool and a different dataset.  
@@ -64,6 +64,7 @@ Each project is fully self-contained, including its own dataset, analysis proces
 - Each project uses a **different dataset** and should be evaluated independently.
 - Insights and conclusions may vary based on the dataset and analytical approach.
 - Dashboard screenshots are included inside each project folder.
+
 
 
 
